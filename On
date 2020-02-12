@@ -1,0 +1,8 @@
+[12-Feb-2020 17:28:21 Europe/Moscow] PHP Notice:  Undefined variable: link in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php on line 36
+[12-Feb-2020 17:28:21 Europe/Moscow] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php on line 36
+[12-Feb-2020 17:28:21 Europe/Moscow] PHP Notice:  Undefined variable: link in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php on line 36
+[12-Feb-2020 17:28:21 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php on line 36
+[12-Feb-2020 17:30:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php:43
+Stack trace:
+#0 {main}
+  thrown in C:\OPENSERVER\OSPanel\domains\test\text_db_test.php on line 43
